@@ -1,6 +1,7 @@
 # Asymptotically Sub-Optimal LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%23%2FTypeScript-blue)&nbsp;
+![Licence](https://img.shields.io/badge/licence-MIT-green)&nbsp;
 
 * This repository contains my solutions to LeetCode problems.
 * The solutions are not necessarily the most optimal ones. I am still learning and improving my problem-solving skills.
