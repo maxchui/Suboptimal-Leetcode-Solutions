@@ -8,7 +8,7 @@
 
 ## Solutions
 
-* TBA
+* [0001-1000](./0001-1000.md)
 
 ## Acknowledgements
 
